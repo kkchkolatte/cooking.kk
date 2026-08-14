@@ -334,8 +334,8 @@ export default function App() {
           <Snowflake size={18} strokeWidth={2.4} color={C.fresh} />
         </div>
         <div>
-          <div style={styles.brandName}>冰箱買菜清單</div>
-          <div style={styles.brandSub}>買到就進冰箱 · 到期主動提醒</div>
+          <div style={styles.brandName}>小廚房日記</div>
+          <div style={styles.brandSub}>買到就進冰箱 · 記錄食譜靈感庫</div>
         </div>
       </header>
 
